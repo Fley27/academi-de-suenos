@@ -1,0 +1,79 @@
+:root{
+    --font-poppins: 'Poppins', sans-serif;
+    --font-quicksand: 'Quicksand', sans-serif;
+    /* Font Sizes */
+    --font-normal: 1em;
+    --font-small: 0.8125rem;
+    --max-width: 1280px;
+    --blue: #007bff;
+    --indigo: #6610f2;
+    --purple: #6f42c1;
+    --pink: #ee3577;
+    --red: #FD450C;
+    --orange: #f68e62;
+    --yellow: #ffc107;
+    --green: #28a745;
+    --teal: #20c997;
+    --cyan: #17a2b8;
+    --white: #fff;
+    --gray: #767575;
+    --gray-light:#D0D0D0;
+    --gray-dark: #292929;
+    --primary: #6f42c1;
+    --secondary: #4f4f4f;
+}
+
+.contact-information{
+    width: 100%;
+    height: fit-content;
+    padding: 60px 0;
+    overflow-x: hidden;
+    background-color: var(--gray-dark) ;
+}
+
+.contact-information-container{
+    width: 90%;
+    height: fit-content;
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+}
+
+.c-i-items{
+    width: 50%;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+}
+
+.c-i-item{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    color: var(--white);
+}
+
+.c-i-item-title{
+    font-family: var(--font-poppins);
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin: 10px 0;
+}
+
+.c-i-item-information{
+    font-family: var(--font-quicksand);
+    font-size: 18px;
+    margin-bottom: 10px;
+    line-height: 1.5;
+    margin: 0;
+}
+
+.c-i-item-information > span{
+    display: inline-block;
+    font-weight: 600;
+    margin: 10px 0;
+}
+
+/* Path: assets/css/contact-information.css */

@@ -1,0 +1,112 @@
+:root{
+    --font-poppins: 'Poppins', sans-serif;
+    --font-quicksand: 'Quicksand', sans-serif;
+    /* Font Sizes */
+    --font-normal: 1em;
+    --font-small: 0.8125rem;
+    --max-width: 1280px;
+    --blue: #007bff;
+    --indigo: #6610f2;
+    --purple: #6f42c1;
+    --pink: #ee3577;
+    --red: #FD450C;
+    --orange: #f68e62;
+    --yellow: #ffc107;
+    --green: #28a745;
+    --teal: #20c997;
+    --cyan: #17a2b8;
+    --white: #fff;
+    --gray: #767575;
+    --gray-light:#D0D0D0;
+    --gray-dark: #434242;
+    --primary: #6f42c1;
+    --secondary: #4f4f4f49;
+    --black: #111111;
+}
+
+
+.secondary-menu,
+.open-secondary-menu{
+    display: none;
+}
+
+@media only screen and (max-width: 960px) {
+    .open-secondary-menu{
+        display: flex;
+        height: calc(100vh - 60px);
+        width: 100%;
+        background-color: var(--secondary);
+        position: fixed;
+        z-index: 9;
+    }
+    
+    .s-m-container{
+        width: 70%;
+        height: 100%;
+        background-color: var(--white);
+        padding-left: 3.5%;
+        padding-top: 30px;
+    }
+    
+    .menu-mobile-menu-container{
+        height: fit-content;
+        width: fit-content;
+        margin: 0;
+        padding: 0;
+    }
+    
+    .secondary-navbar {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        list-style-type: none;
+        padding: 0;
+        font-family: var(--font-quicksand);
+        margin: 0;
+    }
+    
+    .menu-mobile-menu-container .secondary-navbar > li{
+        margin-bottom: 20px;
+    }
+    
+    
+    .menu-mobile-menu-container .secondary-navbar > li > a{
+        font-size: 16px;
+        color: var(--gray);
+    }
+    
+    
+    .menu-mobile-menu-container .secondary-navbar > .current_page_item > a{
+        color: var(--black);
+        font-weight: 500;
+    }
+    
+    .menu-mobile-menu-container .secondary-navbar > li > a:hover{
+        color: var(--black);
+        font-weight: 500;
+    }
+    
+    .s-m-bottom{
+        display: flex;
+        flex-direction: column;
+        width: fit-content;
+        height: fit-content;
+    }
+    
+    .s-m-b-item{
+        margin-bottom: 20px;
+        font-family: var(--font-quicksand);
+    }
+    
+    .s-m-b-item > i{
+        font-size: 16px;
+    }
+    
+    .s-m-b-item:hover{
+        cursor: pointer;
+    }
+    
+    .s-m-bottom > .phone{
+        margin: 0;
+    }
+}
