@@ -20,7 +20,7 @@
     --gray-light:#ECECEC;
     --gray-dark: #292929;
     --primary: #6f42c1;
-    --secondary: #2928283b;
+    --overlay: #2928283b;
     --beige: #fcd4d4;
 }
 
@@ -234,6 +234,7 @@
         height: 100%;
         top: 0;
         right: 0;
+        z-index: 1;
     }
 
     .layout-home-background-corner-square,
@@ -251,12 +252,12 @@
     }
 
     .l-h-overlay-background{
-        background-color: var(--secondary);
+        background-color: var(--overlay);
         z-index: 3;
     }
 
     .layout-home-background-mobile-version{
-        z-index: -1;
+        z-index: 0;
     }
 
     .layout-home-enroll-btn{

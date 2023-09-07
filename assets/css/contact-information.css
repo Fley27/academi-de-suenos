@@ -76,4 +76,57 @@
     margin: 10px 0;
 }
 
+
+@media only screen and (max-width: 1050px){
+
+    .c-i-item-title{
+        font-size: 25px;
+        font-weight: 500;
+    }
+
+    .c-i-item-information{
+        font-size: 16px;
+    }
+
+}
+
+
+@media only screen and (max-width: 780px){
+    
+        .contact-information-container{
+            flex-direction: column;
+        }
+    
+        .c-i-items{
+            width: 100%;
+        }
+    
+        .c-i-item{
+            width: 100%;
+            height: fit-content;
+            display: flex;
+            flex-direction: column;
+            color: var(--white);
+        }
+}
+
+
+
+@media only screen and (max-width: 600px){
+
+    .contact-information{
+        padding: 30px 0;
+    }
+    
+    .c-i-item-title{
+        font-size: 20px;
+        font-weight: 500;
+    }
+
+    .c-i-item-information{
+        font-size: 14px;
+    }
+}
+
+
 /* Path: assets/css/contact-information.css */

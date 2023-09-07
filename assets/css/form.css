@@ -17,6 +17,7 @@ form{
     display: flex;
     flex-direction: column;
     margin: 0 auto;
+    position: relative;
 }
 
 
@@ -39,11 +40,12 @@ form > p{
 }
 
 .wpcf7-form-control-wrap {
+    display: inline-block;
     font-family: var(--font-quicksand);
     font-size: 20px;
     color: var(--gray-dark);
-    width: 100%;
     height: fit-content;
+    position: relative;
 }
 
 .your-first-name,
@@ -56,8 +58,15 @@ form > p{
     margin: 0;
 }
 
+.your-message{
+    width: 100%;
+    height: fit-content;
+    margin: 0;
+}
 
-.input:focus{
+
+.wpcf7-form-control-wrap > input:focus,
+.wpcf7-form-control-wrap > textarea:focus{
     outline: none;
     border-color: var(--blue);
 }
@@ -67,11 +76,11 @@ form > p{
     width: 100%;
     height: 60px;
     border: 2px solid var(--gray-light);
-    border-radius: 5px;
     padding: 0 10px;
     font-family: var(--font-quicksand);
-    font-size: 18px;
+    font-size: 16px;
     color: var(--gray-dark);
+    box-sizing: border-box; 
 }
 
 
@@ -79,11 +88,12 @@ form > p{
     width: 100%;
     height: 200px;
     border: 2px solid var(--gray-light);
-    border-radius: 5px;
     padding: 0 10px;
     font-family: var(--font-quicksand);
-    font-size: 18px;
+    font-size: 16px;
     color: var(--gray-dark);
+    padding: 10px;
+    box-sizing: border-box; 
 }
 
 
@@ -101,4 +111,92 @@ form > p{
 
 .wpcf7-submit:hover{
     cursor: pointer;
+}
+
+
+.wpcf7-response-output{
+    font-family: var(--font-quicksand);
+    font-size: 16px;
+    color: var(--gray-dark);
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.wpcf7 form.invalid .wpcf7-response-output, 
+.wpcf7 form.unaccepted .wpcf7-response-output,
+.wpcf7 form.payment-required .wpcf7-response-output{
+    border-color: var(--red);
+}
+
+.wpcf7 form .wpcf7-response-output{
+    width: 100%;
+    height: fit-content;
+    margin: 10px 0;
+}
+
+@media only screen and (max-width: 780px){
+    .form{
+        padding: 20px 0 ;
+    }
+
+    .form-title {
+        font-size: 30px;
+        margin: 0;
+        margin-top: 10px;
+    }
+
+    .wpcf7-form-control-wrap,
+    .wpcf7-response-output {
+        font-size: 16px;
+    }
+
+    .wpcf7-form-control-wrap > input{
+        height: 50px;;
+    }
+
+    .wpcf7-form-control-wrap  > textarea{
+        height: 150px;
+    }
+
+    form > p{
+        flex-direction: column;
+        margin: 0;
+    }
+
+
+    .your-email,
+    .your-first-name,
+    .your-last-name,
+    .phone-number,
+    .your-message{
+        width: 100%;
+        margin: 10px 0;
+    }
+
+    .wpcf7-submit{
+        height: 40px;
+        width: 150px;
+        font-size: 16px;
+    }
+}
+
+
+@media only screen and (max-width: 600px){
+    .form-title {
+        font-size: 25px;
+    }
+
+    .wpcf7-form-control-wrap {
+        font-size: 14px;
+    }
+
+    .wpcf7-form-control-wrap > input{
+        height: 50px;;
+    }
+
+    .wpcf7-form-control-wrap  > textarea{
+        height: 150px;
+    }
+
 }
