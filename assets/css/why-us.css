@@ -69,16 +69,19 @@
 }
 
 .why-us-btn{
+    display: flex;
     height: 50px;
     width: 200px;
     padding: 0 20px;
     border: 2px solid var(--blue);
     background: transparent;
     border-radius: 5px;
+    justify-content: center;
+    align-items: center;
 }
 
 
-.why-us-btn > a{
+.why-us-btn{
     color: var(--blue);
     font-family: var(--font-quicksand);
     font-size: 17px;
@@ -89,11 +92,10 @@
 .why-us-btn:hover{
     cursor: pointer;
     transition: ease .2s;
-    border: 0;
     background-color: var(--blue);
 }
 
-.why-us-btn:hover > a{
+.why-us-btn:hover {
     color: var(--white);
 }
 

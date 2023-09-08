@@ -21,7 +21,7 @@
         <div class = "layout-home-img-container">
             <div class = "layout-home-background-corner-square yellow"></div>
             <div class = "layout-home-img-background red"></div>
-            <img class = "layout-home-img left" src="<?php echo get_template_directory_uri(); ?>/assets/images/courses.png" alt="Academia De Sueños" loading="lazy">
+            <img class = "layout-home-img left" src="https://i.imgur.com/lFveOF2.png" alt="Academia De Sueños" loading="lazy">
         </div>
     </div>
     <div class="layout-home-background-mobile-version red"></div>

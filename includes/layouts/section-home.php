@@ -19,7 +19,7 @@
         <div class = "layout-home-img-container">
             <div class = "layout-home-background-corner-square beige"></div>
             <div class = "layout-home-img-background"></div>
-            <img class = "layout-home-img left-contact" src="<?php echo get_template_directory_uri(); ?>/assets/images/contact.png" alt="Academia De Sueños" loading="lazy">
+            <img class = "layout-home-img left-contact" src="https://i.imgur.com/3jMV8hW.png" loading="lazy" alt = "academia de suenos">
         </div>
     </div>
     <div class="layout-home-background-mobile-version"></div>

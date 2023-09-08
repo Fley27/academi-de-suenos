@@ -2,7 +2,7 @@
     <div class = "why-us-container">
         <div class = "why-us-text">
             <div class = "why-us-title">
-                Why Academia de Sueños ?
+                Why Academia de Sueños?
             </div>
             <div class = "why-us-description">
                 Whether you’re an individual looking to learn Python to advance your career 
@@ -11,9 +11,9 @@
                 to realize your strategies, we remove the challenges 
                 and roadblocks slowing you down.
             </div>
-            <button class = "why-us-btn">
-                <a href = "#">See More</a>
-            </button>
+            <a href = "/wordpress/why-academia-de-suenos/" class = "why-us-btn">
+                See More
+            </a>
         </div>
         <img class = "why-us-img" src="<?php echo get_template_directory_uri(); ?>/assets/images/puzzle.webp" alt="puzzle Academia De Sueños" loading="lazy">
     </div>

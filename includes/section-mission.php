@@ -1,7 +1,7 @@
 <div class="mission">
     <div class="mission-container">
         <div class="mission-img-container">
-            <img class="mission-img" src="<?php echo get_template_directory_uri(); ?>/assets/images/lr.jpg" alt="Lorena Rivas" loading="lazy">
+            <img class="mission-img" src="https://i.imgur.com/24PBC4Z.jpg" alt="Lorena Rivas" loading="lazy">
             <div class="mission-img-background"></div>
         </div>
         <div class="mission-text">

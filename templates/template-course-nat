@@ -1,0 +1,5 @@
+<?php
+    /*Template Name: Naturalization-course*/
+    
+    get_header("nat-course");
+?>
