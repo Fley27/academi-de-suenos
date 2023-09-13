@@ -10,7 +10,7 @@
 ?>
 
 <?php
-    get_template_part("includes/section", "nat-course");
+    get_template_part("includes/course-section/nat/index");
 ?>
 
 <?php

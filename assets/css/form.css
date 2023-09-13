@@ -37,6 +37,7 @@ form > p{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    margin-bottom: 30px;
 }
 
 .wpcf7-form-control-wrap {

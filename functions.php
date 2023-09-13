@@ -18,6 +18,7 @@
         wp_enqueue_style('custom-contact-information-style', get_stylesheet_directory_uri() . '/assets/css/contact-information.css', array(), '1.0', 'all');
         wp_enqueue_style('custom-form-style', get_stylesheet_directory_uri() . '/assets/css/form.css', array(), '1.0', 'all');
         wp_enqueue_style('custom-404-style', get_stylesheet_directory_uri() . '/assets/css/404.css', array(), '1.0', 'all');
+        wp_enqueue_style('custom-course-style', get_stylesheet_directory_uri() . '/assets/css/course.css', array(), '1.0', 'all');
     }
 
     add_action('wp_enqueue_scripts', 'enqueue_custom_styles');   
@@ -36,6 +37,7 @@
         wp_enqueue_script( 'faq', get_template_directory_uri() . '/assets/js/faq.js', array());
         wp_enqueue_script( 'secondary-menu', get_template_directory_uri() . '/assets/js/secondary-menu.js', array());
         wp_enqueue_script( 'form', get_template_directory_uri() . '/assets/js/form.js', array());
+        wp_enqueue_script( 'curriculum-table', get_template_directory_uri() . '/assets/js/curriculum-table.js', array());
     }
 
     add_action("wp_enqueue_scripts", "load_javascript");

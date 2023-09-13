@@ -1,0 +1,361 @@
+:root{
+    --light:#f7fafd;
+}
+
+.course--page{
+    width: 100%;
+    height: fit-content;
+    padding: 40px 0;
+    margin: 0;
+}
+
+.course--container{
+    width: 90%;
+    height: fit-content;
+    margin: 0 auto;
+}
+
+.course--container-header{
+    width: 100%;
+    height: fit-content;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.body-course-content{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.course--text{
+    height: fit-content;
+    width: 50%;
+    font-family: var(--font-quicksand);
+}
+
+.course--title{
+    font-size: 40px;
+    line-height: 1;
+    font-weight: 700;
+    font-family: var(--font-poppins);
+}
+
+.course--description{
+    font-size: 20px;
+    line-height: 1.6;
+    letter-spacing: 1.5;
+    font-weight: 300;
+    margin: 30px 0;
+}
+
+.course--img{
+    height: 300px;
+    width: 40%;
+    object-fit: cover;
+}
+
+.course--btn{
+    display: flex;
+    height: 50px;
+    width: 200px;
+    padding: 0 20px;
+    border: 2px solid var(--blue);
+    background: transparent;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+}
+
+.course--btn {
+    color: var(--blue);
+    font-family: var(--font-quicksand);
+    font-size: 19px;
+    font-weight: 600;
+}
+
+.course--btn:hover{
+    cursor: pointer;
+    transition: ease .2s;
+    background-color: var(--blue);
+}
+
+.course--btn:hover{
+    color: var(--white);
+}
+
+.body-course-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: fit-content;
+    width: 100%;
+    margin-top: 70px;
+}
+
+.tab-course{
+    width: 100%;
+    height: 70px;
+    font-family: var(--font-quicksand);
+}
+
+
+.tab-course > a{
+    font-size: 17px;
+    display: inline-block;
+    margin: auto 0;
+    margin-right: 30px;
+    padding: 10px 15px;
+    background-color: var(--lightblue);
+    border-radius: 5px;
+    font-weight: 500;
+}
+
+
+.course-section{
+    width: 100%;
+    height: fit-content;
+    font-family: var(--font-quicksand);
+}
+
+
+.c-s-title{
+    font-size: 17px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.c-s-section-body{
+    width: 80%;
+    height: fit-content;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+
+
+.c-s-body-ul{
+    width: 90%;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 0 auto 30px auto;
+    margin-bottom: 30px;
+}
+
+
+.c-s-b-item{
+    width: 40%;
+    margin: 20px 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.c-s-b-item > i{
+    font-size: 30px;
+    margin-right: 20px;
+    color: var(--blue);
+    display: inline-block;
+}
+
+.c-s-b-item > span{
+    font-size: 17px;
+    line-height: 1.6;
+    display: inline-block;
+}
+
+.c-s-body-ul > li{
+    font-size: 17px;
+    line-height: 1.6;
+    margin-bottom: 10px;
+}
+
+.curriculum-table{
+    width: 100%;
+    max-width: 700px;
+    height: fit-content;
+    font-family: var(--font-quicksand);
+    display: flex;
+    flex-direction: column;
+    border: 2px solid var(--lightgray);
+    border-bottom: none;
+}
+
+.curriculum-table-row{
+    height: fit-content;
+    width: 100%;
+    border-bottom: 2px solid var(--lightgray);
+}
+
+
+.curriculum-table-row-header{
+    height: 60px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 0 10px;
+}
+
+.curriculum-table-row:hover{
+    cursor: pointer;
+    background-color: var(--lightblue);
+}
+
+.curriculum-table-row-title{
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.angle-down >  i, 
+.angle-up >  i{
+    font-size: 20px;
+}
+
+
+.angle-up{
+    display: none;
+}
+
+.curriculum-item-description{
+    display: none;
+    width: 100%;
+}
+
+.uncollapsed{
+    height: calc(fit-content);
+}
+
+.uncollapsed > .curriculum-item-description{
+    display: block;
+    padding: 10px;
+    line-height: 1.7;
+    margin-bottom: 20px;
+}
+
+
+.uncollapsed > .curriculum-table-row-header .c-t-r-item-icon > .angle-down{
+    display: none;
+}
+
+.uncollapsed > .curriculum-table-row-header .c-t-r-item-icon >  .angle-up{
+    display: block;
+}
+
+.prices{
+    width: 100%;
+    height: fit-content;
+    margin-top: 60px;
+    padding: 30px 0;
+}
+
+.prices-container{
+    width: 100%;
+    height: fit-content;
+    margin: 0 auto;
+}
+
+.prices-title{
+    font-size: 35px;
+    font-weight: 700;
+    font-family: var(--font-poppins);
+    width: fit-content;
+    margin: 0 auto;
+    margin-bottom: 70px;
+}
+
+.packages{
+    width: fit-content;
+    height: fit-content;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+.package{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    height: 550px;
+    padding: 20px 30px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
+    font-size: 18px;
+    font-family: var(--font-quicksand);
+    border-radius: 10px;
+    margin: 0 30px;
+}
+
+.package:nth-child(2){
+    background-color: var(--light);
+}
+
+.package-title{
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.package-description{
+    font-size: 17px;
+    line-height: 1.6;
+    letter-spacing: 1.5;
+    margin: 30px 0;
+    text-align: justify;
+}
+
+.package-class-number{
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    margin: 0 auto;
+    color: var(--cyan);
+}
+
+.package-bar{
+    height: 2px;
+    width: 60px;
+    background-color: var(--cyan);
+    margin: 20px auto;
+}
+
+.package-price{
+    font-size: 25px;
+    font-weight: 500;
+    width: 100%;
+    margin: 20px auto;
+    color: var(--blue);
+    font-family: var(--font-poppins);
+}
+
+.package-btn{
+    margin: 0 auto;
+    display: block;
+    margin-top: 30px;
+    height: 55px;
+    width: 190px;
+    background-color: var(--purple);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--white);
+    font-weight: 600;
+    border-radius: 30px;
+}
+
