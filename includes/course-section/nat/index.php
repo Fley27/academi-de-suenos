@@ -3,7 +3,7 @@
         <div class="course--container-header">
             <div class = "course--text">
                 <div class = "course--title">
-                    Naturalization Course
+                    Naturalization Course 
                 </div>
                 <div class = "course--description">
                     As the immigration landscape continues to evolve 

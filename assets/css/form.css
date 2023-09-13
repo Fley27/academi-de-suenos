@@ -51,7 +51,7 @@ form > p{
 
 .your-first-name,
 .your-last-name,
-.phone-number,
+.your-phone-number,
 .your-email {
     width: 45%;
     display: inline-block;
@@ -114,7 +114,6 @@ form > p{
     cursor: pointer;
 }
 
-
 .wpcf7-response-output{
     font-family: var(--font-quicksand);
     font-size: 16px;
@@ -169,7 +168,7 @@ form > p{
     .your-email,
     .your-first-name,
     .your-last-name,
-    .phone-number,
+    .your-phone-number,
     .your-message{
         width: 100%;
         margin: 10px 0;

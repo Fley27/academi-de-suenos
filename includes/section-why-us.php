@@ -11,7 +11,7 @@
                 to realize your strategies, we remove the challenges 
                 and roadblocks slowing you down.
             </div>
-            <a href = "/wordpress/why-academia-de-suenos/" class = "why-us-btn">
+            <a href = "/why-us/" class = "why-us-btn">
                 See More
             </a>
         </div>

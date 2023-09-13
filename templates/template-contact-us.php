@@ -1,6 +1,6 @@
 <?php
     /* 
-        Template Name: Contact US
+        Template Name: Contact
     */
 ?>
 
@@ -12,7 +12,6 @@
 <?php 
     get_template_part('includes/section', "contact-information");
 ?>  
-
 
 <?php 
     get_template_part('includes/section', "form");

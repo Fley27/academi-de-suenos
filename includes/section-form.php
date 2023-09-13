@@ -4,7 +4,7 @@
             Contact Us!
         </div>
         <?php 
-            echo do_shortcode('[contact-form-7 id="75d0a10" title="contact-form-academia-de-suenos_copy"]');
+            echo do_shortcode('[contact-form-7 id="6f11a98" title="academia-de-suenos"]');
         ?>
     </div>
 </div>

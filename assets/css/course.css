@@ -359,3 +359,176 @@
     border-radius: 30px;
 }
 
+
+@media only screen and (max-width: 1050px){
+    .packages{
+        width: 100%;
+        margin: 0;
+        justify-content: space-between;
+    }
+
+    .package{
+        margin: 30px 0;
+    }
+}
+
+
+@media only screen and (max-width: 1000px){
+    .course-section,
+    .c-s-section-body,
+    .curriculum-table{
+        width: 100%;
+    }
+
+    .c-s-b-item{
+        width: 47%;
+    }
+}
+
+
+@media only screen and (max-width: 960px){
+    .course--page{
+        margin-top: 70px;
+    }
+}
+
+@media only screen and (max-width: 930px){
+    .package{
+        width: 48%;
+    }
+}
+
+
+@media only screen and (max-width: 830px) {
+
+    .course--container-header{
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+
+    .course--img{
+        height: 467px;
+        width: auto;
+    }
+
+    .course--text{
+        width: 100%;
+    }
+}
+
+
+@media only screen and (max-width: 780px) {
+
+    .c-s-b-item{
+        width: 100%;
+    }
+
+    .curriculum-table-row-header{
+        min-height: 70px;
+        height: fit-content;
+    }
+
+    .curriculum-table-row-title{
+        width: 80%;
+        line-height: 1.8;
+    }
+}
+
+
+@media only screen and (max-width: 730px){
+    .prices{
+        margin-top: 0px;
+    }
+
+    .prices-title{
+        font-size: 30px;
+        margin-bottom: 40px;
+    }
+
+    .package{
+        width: 48%;
+    }
+
+    .package-title{
+        font-size: 20px;
+    }
+
+    .package-class-number{
+        font-size: 18px;
+    }
+
+    .package-price{
+        font-size: 20px;
+    }
+
+    .package-btn{
+        height: 50px;
+        width: 170px;
+        font-weight: 500;
+        font-size: 16px;
+    }
+}
+
+
+@media only screen and (max-width: 600px) {
+    .course--img{
+        height: 370px;
+        width: auto;
+    }
+
+    .course--title{
+        font-size: 25px;
+    }
+
+    .course--description{
+        font-size: 18px;
+    }
+
+    .tab-course{
+        display: none;
+    }
+
+    .packages{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .package{
+        width: 80%;
+        margin: 30px 0;
+    }
+}
+
+@media only screen and (max-width: 500px){
+    .course--img{
+        height: 340px;
+        width: auto;
+    }
+
+    .package{
+        width: 100%;
+        margin: 30px 0;
+    }
+}
+
+
+@media only screen and (max-width: 420px){
+    .course--img{
+        height: 300px;
+        width: auto;
+    }
+}
+
+@media only screen and (max-width: 370px){
+    .course--img{
+        height: 260px;
+        width: auto;
+    }
+}
+
+@media only screen and (max-width: 340px){
+    .course--img{
+        height: 220px;
+        width: auto;
+    }
+}
