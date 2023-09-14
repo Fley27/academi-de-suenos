@@ -6,12 +6,12 @@
                     Naturalization Course 
                 </div>
                 <div class = "course--description">
-                    As the immigration landscape continues to evolve 
-                    and clients seek comprehensive support, 
-                    the Education Department will enable us 
-                    to provide holistic services that encompass 
-                    both legal representation and guidance on 
-                    education opportunities for immigrants.
+                    We aim to provide more holistic services by purposefully preparing 
+                    students for the N-400 citizenship test. Our course objectives 
+                    are two-fold:
+                    <br/>1- Students will be able to speak, read, and write 
+                    English at the high beginning ESL level, and 
+                    <br/>2- Students will be able to correctly answer at least 90 of the 100 civics questions.
                 </div>
                 <a href = "/wordpress/why-academia-de-suenos/" class = "course--btn">
                     Enroll Now!
@@ -34,7 +34,7 @@
             ?>
             <?php
                 get_template_part("includes/course-section/nat/prices");
-            ?>
+            ?>            
         </div>
     </div>
 </div>

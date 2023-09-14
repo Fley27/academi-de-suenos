@@ -16,7 +16,7 @@
                 <div class = "lang-options">
                     <span class = "option">ENG</span>
                 </div>
-                <button class = "phone">(919) 505-4870</button>
+                <a href = "/login" class = "join-now">Join Now!</a>
             </div>
             <div class = "secondary-menu-button">
                 <div class = "hamburger-icon">

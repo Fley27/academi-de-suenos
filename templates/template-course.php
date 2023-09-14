@@ -1,5 +1,5 @@
 <?php
     /* 
-        Template Name: Contact US
+        Template Name: Course Template
     */
 ?>

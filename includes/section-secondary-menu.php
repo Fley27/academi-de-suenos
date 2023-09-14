@@ -11,7 +11,7 @@
             <div class = "s-m-b-item">
                 ENG <i class="fa-solid fa-angle-down" style="color: #000000;"></i>
             </div>
-            <button class = "phone">(919) 505-4870</button>
+            <a href = "/login" class = "join-now">Join Now!</a>
         </div>
     </div>
 </div>
