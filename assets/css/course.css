@@ -7,6 +7,7 @@
     height: fit-content;
     padding: 40px 0;
     margin: 0;
+    position: relative;
 }
 
 .course--container{
@@ -328,6 +329,10 @@
     color: var(--cyan);
 }
 
+.package-class-number:hover{
+    cursor: pointer;
+}
+
 .package-bar{
     height: 2px;
     width: 60px;
@@ -344,19 +349,34 @@
     font-family: var(--font-poppins);
 }
 
-.package-btn{
+.package-btn,
+.package-btn-logged-in,
+.package > form > input[type = "submit"],
+.package-btn-logged-in-1{
     margin: 0 auto;
     display: block;
     margin-top: 30px;
     height: 55px;
     width: 190px;
-    background-color: var(--purple);
+    background-color: var(--blue);
     display: flex;
     justify-content: center;
     align-items: center;
     color: var(--white);
     font-weight: 600;
     border-radius: 30px;
+    border: 0;
+    font-family: var(--font-quicksand);
+    font-size: 17px;
+}
+
+
+.package-btn:hover,
+.package-btn-logged-in:hover,
+.package-btn-logged-in-1:hover,
+.package > form > input[type = "submit"]:hover{
+    cursor: pointer;
+    transition: ease .2s;
 }
 
 

@@ -97,8 +97,16 @@
 }
 
 
+.lang-options{
+    display: none;
+}
+
 .option{
     font-weight: 500;
+}
+
+.user-account{
+    margin: 0 0 0 20px;
 }
 
 .join-now{

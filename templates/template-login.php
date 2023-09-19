@@ -3,11 +3,20 @@
     /* 
         Template Name: Login
     */
+
+    
 ?>
 
 
 <?php
     get_header('login');
+?>
+
+
+<?php
+    $course = isset($_GET['course']) ? intval($_GET['course']) : "";
+
+    $course;
 ?>
 
 <div class="registration">
@@ -26,7 +35,7 @@
 
         <footer  class = "footer-registration">
             <div class="f-r-copyright">
-                © 2023 <span>Academia de Sueños.</span> All rights reserved.
+                © 2023 <a href = "/" >Academia de Sueños.</a> All rights reserved.
             </div>
         </footer>
     </div>

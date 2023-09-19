@@ -20,6 +20,8 @@
         wp_enqueue_style('custom-404-style', get_stylesheet_directory_uri() . '/assets/css/404.css', array(), '1.0', 'all');
         wp_enqueue_style('custom-course-style', get_stylesheet_directory_uri() . '/assets/css/course.css', array(), '1.0', 'all');        
         wp_enqueue_style('custom-registration-style', get_stylesheet_directory_uri() . '/assets/css/registration.css', array(), '1.0', 'all');
+        wp_enqueue_style('custom-modal-registration-style', get_stylesheet_directory_uri() . '/assets/css/modal-registration.css', array(), '1.0', 'all');
+        wp_enqueue_style('custom-success-style', get_stylesheet_directory_uri() . '/assets/css/success.css', array(), '1.0', 'all');
     }
 
     add_action('wp_enqueue_scripts', 'enqueue_custom_styles');   
@@ -39,15 +41,38 @@
         wp_enqueue_script( 'secondary-menu', get_template_directory_uri() . '/assets/js/secondary-menu.js', array());
         wp_enqueue_script( 'form', get_template_directory_uri() . '/assets/js/form.js', array());
         wp_enqueue_script( 'curriculum-table', get_template_directory_uri() . '/assets/js/curriculum-table.js', array());
+        wp_enqueue_script( 'prices', get_template_directory_uri() . '/assets/js/prices.js', array());
     }
 
     add_action("wp_enqueue_scripts", "load_javascript");
 
+    //Alter the users table
+
+    function add_custom_columns_to_users_table() {
+        global $wpdb;
+        $table_name = $wpdb->prefix . 'usermeta'; // Get the users table name
+    
+        $columns_to_add = array(
+            'meta_firstname' => 'VARCHAR(255)',
+            'meta_lastname' => 'VarChar(255)',
+            'meta_phone' => 'Varchar(255)',
+            'meta_address' => 'Varchar(255)',
+            "meta_city" => "Varchar(255)",
+            "meta_state" => "Varchar(255)",
+            "meta_zip" => "Varchar(255)",
+            "meta_country" => "Varchar(255)"
+        );
+    
+        foreach ($columns_to_add as $column_name => $column_type) {
+            $sql = "ALTER TABLE $table_name ADD $column_name $column_type";
+            $wpdb->query($sql);
+        }
+    }
+    
+    add_action('admin_init', 'add_custom_columns_to_users_table');
 
     //Themes Options
     add_theme_support("menus");
-
-
 
     //Menu
     register_nav_menus(array(

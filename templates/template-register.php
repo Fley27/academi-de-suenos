@@ -2,38 +2,35 @@
     /* 
         Template Name: Register
     */      
-?><?php
-
-/* 
-    Template Name: Login
-*/
 ?>
 
 
 <?php
-get_header('login');
+    get_header('register');
 ?>
 
 <div class="registration">
-<div class="registration-container">
-    <div class="registration-title">
-        Welcome!
-    </div>
-    <div class="registration-form">
-        
-    </div>
-    <div class="registration-redirect">
-        Don't have an account? <a href="/register">Register</a>
-    </div>
-
-    <footer  class = "footer-registration">
-        <div class="f-r-copyright">
-            © 2023 <span>Academia de Sueños.</span> All rights reserved.
+    <div class="registration-container">
+        <div class="registration-title">
+            Join Now!
         </div>
-    </footer>
-</div>
+        <div class="registration-form">
+            <?php
+                echo do_shortcode('[forminator_form id="59"]');
+            ?>
+        </div>
+        <div class="registration-redirect">
+            Already have an account? <a href="/login">Login</a>
+        </div>
+
+        <footer  class = "footer-registration">
+            <div class="f-r-copyright">
+                © 2023 <a href = "/">Academia de Sueños.</a> All rights reserved.
+            </div>
+        </footer>
+    </div>
 </div>
 
 <?php
-get_footer('login');
+    get_footer('register');
 ?>
