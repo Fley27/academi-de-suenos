@@ -302,7 +302,7 @@
     margin: 0 30px;
 }
 
-.package:nth-child(2){
+.package:nth-child(1){
     background-color: var(--light);
 }
 
@@ -350,9 +350,7 @@
 }
 
 .package-btn,
-.package-btn-logged-in,
-.package > form > input[type = "submit"],
-.package-btn-logged-in-1{
+.package > form > input[type = "submit"]{
     margin: 0 auto;
     display: block;
     margin-top: 30px;

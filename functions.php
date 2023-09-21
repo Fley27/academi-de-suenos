@@ -42,7 +42,6 @@
         wp_enqueue_script( 'secondary-menu', get_template_directory_uri() . '/assets/js/secondary-menu.js', array());
         wp_enqueue_script( 'form', get_template_directory_uri() . '/assets/js/form.js', array());
         wp_enqueue_script( 'curriculum-table', get_template_directory_uri() . '/assets/js/curriculum-table.js', array());
-        wp_enqueue_script( 'prices', get_template_directory_uri() . '/assets/js/prices.js', array());
     }
 
     add_action("wp_enqueue_scripts", "load_javascript");

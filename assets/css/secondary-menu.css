@@ -30,6 +30,11 @@
     display: none;
 }
 
+
+.s-m-bottom{
+    display: none;
+}
+
 @media only screen and (max-width: 960px) {
     .open-secondary-menu{
         display: flex;

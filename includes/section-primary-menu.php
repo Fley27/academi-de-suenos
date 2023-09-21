@@ -16,11 +16,6 @@
                 <div class = "lang-options">
                     <span class = "option">ENG</span>
                 </div>
-                <?php if(is_user_logged_in()): ?>
-                    <a href = "/account" class = "user-account">My Account</a>
-                <?php else: ?>
-                    <a href = "/login" class = "join-now">Join Now!</a>
-                <?php endif; ?>
             </div>
             <div class = "secondary-menu-button">
                 <div class = "hamburger-icon">
