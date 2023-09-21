@@ -22,6 +22,7 @@
         wp_enqueue_style('custom-registration-style', get_stylesheet_directory_uri() . '/assets/css/registration.css', array(), '1.0', 'all');
         wp_enqueue_style('custom-modal-registration-style', get_stylesheet_directory_uri() . '/assets/css/modal-registration.css', array(), '1.0', 'all');
         wp_enqueue_style('custom-success-style', get_stylesheet_directory_uri() . '/assets/css/success.css', array(), '1.0', 'all');
+        wp_enqueue_style('custom-my-account-style', get_stylesheet_directory_uri() . '/assets/css/my-account.css', array(), '1.0', 'all');
     }
 
     add_action('wp_enqueue_scripts', 'enqueue_custom_styles');   
@@ -48,6 +49,21 @@
 
     //Alter the users table
 
+    //Themes Options
+    add_theme_support("menus");
+
+    //Menu
+    register_nav_menus(array(
+        'primary' => 'primary menu',
+        'secondary' =>  'secondary menu'
+    ));
+
+?>
+
+
+<?php
+
+    /*
     function add_custom_columns_to_users_table() {
         global $wpdb;
         $table_name = $wpdb->prefix . 'usermeta'; // Get the users table name
@@ -70,14 +86,6 @@
     }
     
     add_action('admin_init', 'add_custom_columns_to_users_table');
-
-    //Themes Options
-    add_theme_support("menus");
-
-    //Menu
-    register_nav_menus(array(
-        'primary' => 'primary menu',
-        'secondary' =>  'secondary menu'
-    ));
-
+    
+        */
 ?>

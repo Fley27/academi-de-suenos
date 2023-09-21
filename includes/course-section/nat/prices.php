@@ -46,7 +46,7 @@
             </div>
         </div>
     </div>
-
+    
     <div class="modal-registration">
         <div class="modal-registration-container">
             <div class="close-registration"><i class="fa-solid fa-xmark"></i></div>
