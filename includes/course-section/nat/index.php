@@ -13,7 +13,7 @@
                     English at the high beginning ESL level, and 
                     <br/>2- Students will be able to correctly answer at least 90 of the 100 civics questions.
                 </div>
-                <a href = "/wordpress/why-academia-de-suenos/" class = "course--btn">
+                <a href = "#prices" class = "course--btn">
                     Enroll Now!
                 </a>
             </div>

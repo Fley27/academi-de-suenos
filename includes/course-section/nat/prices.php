@@ -1,8 +1,8 @@
 <?php /* /payment/?course=nat&package=IRA */ ?>
 
-<div id = "prices" class="prices">
+<div class="prices">
     <div class="prices-container">
-        <div class="prices-title">
+        <div id = "prices" class="prices-title">
             <span>Our Packages</span>
         </div>
 
