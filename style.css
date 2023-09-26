@@ -1,29 +1,29 @@
 /*
-Theme Name: Academia De Sueños
-Text Domain: Academia De Sueños
-Version: 1.0
-Description: "This theme has been meticulously elaborated with the sole purpose: to serve as the basis for the official website of "Academia de Sueños". Access to this template is restricted only to those persons who have obtained explicit authorization from Fenley J. V. MENELAS and/or Rivas & Associates. Use of this template is linked to obtaining the necessary permissions from the aforementioned parties."
-Tags: Modern design, responsive, New
-Author: Fenley J, V. MENELAS
-Author URI: https://www.github.com/Fley27
+    Theme Name: Academia De Sueños
+    Text Domain: Academia De Sueños
+    Version: 1.0
+    Description: "This theme has been meticulously elaborated with the sole purpose: to serve as the basis for the official website of "Academia de Sueños". Access to this template is restricted only to those persons who have obtained explicit authorization from Fenley J. V. MENELAS and/or Rivas & Associates. Use of this template is linked to obtaining the necessary permissions from the aforementioned parties."
+    Tags: Modern design, responsive, New
+    Author: Fenley J, V. MENELAS
+    Author URI: https://www.github.com/Fley27
 */
 
 :root {
-    --blue: #007bff;
+    --blue: #00274C;
     --lightblue: #e3ecff;
     --indigo: #6610f2;
     --purple: #6f42c1;
     --pink: #ee3577;
     --red: #FD450C;
     --orange: #f68e62;
-    --yellow: #ffc107;
+    --yellow: #FFCB05;
     --green: #28a745;
     --teal: #20c997;
     --cyan: #17a2b8;
     --white: #fff;
     --gray: #767575;    
     --gray-light:#D0D0D0;
-    --gray-dark: #434242;
+    --gray-dark: #00274C;
     --primary: #6f42c1;
     --secondary: #4f4f4f;
     --success: #28a745;
@@ -32,7 +32,7 @@ Author URI: https://www.github.com/Fley27
     --danger: #dc3545;
     --light: #c2c2c2;
     --lightgray: #e2e2e2;
-    --light-white: #f7fafd;
+    --light-white: #f5f5f5;
     --dark: #434242;
     --breakpoint-xs: 0;
     --breakpoint-sm: 576px;
@@ -68,3 +68,4 @@ a{
     text-decoration: none;
     color: var(--dark);
 }
+

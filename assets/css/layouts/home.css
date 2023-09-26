@@ -1,34 +1,8 @@
-:root{
-    --font-poppins: 'Poppins', sans-serif;
-    --font-quicksand: 'Quicksand', sans-serif;
-    /* Font Sizes */
-    --font-normal: 1em;
-    --font-small: 0.8125rem;
-    --max-width: 1280px;
-    --blue: #007bff;
-    --indigo: #6610f2;
-    --purple: #6f42c1;
-    --pink: #ee3577;
-    --red: #FD450C;
-    --orange: #f68e62;
-    --yellow: #ffc107;
-    --green: #28a745;
-    --teal: #20c997;
-    --cyan: #17a2b8;
-    --white: #fff;
-    --gray: #767575;
-    --gray-light:#ECECEC;
-    --gray-dark: #292929;
-    --primary: #6f42c1;
-    --overlay: #2928283b;
-    --beige: #fcd4d4;
-}
-
-
 .layout-home{
     width: 100%;
     height: fit-content;
     position: relative;
+    background-color: var(--light-white);
 }
 
 .layout-home-container{
@@ -83,12 +57,12 @@
 }
 
 .btn-red{
-    color: var(--red);
-    border-color: var(--red);
+    color: var(--yellow);
+    border-color: var(--yellow);
 }
 
 .btn-red > a{
-    color: var(--red);
+    color: var(--yellow);
 }
 
 .layout-home-enroll-btn:hover{
@@ -144,7 +118,7 @@
 
 
 .red{
-    background-color: var(--red);
+    background-color: var(--yellow);
 }
 
 .blue{
@@ -263,12 +237,12 @@
     .layout-home-enroll-btn{
         border: 0;
         background-color: var(--white);
-        color: var(--red);
+        color: var(--yellow);
     }
     
     
     .layout-home-enroll-btn:active{
-        background-color: var(--red);
+        background-color: var(--yellow);
         color: var(--white);
     }
     

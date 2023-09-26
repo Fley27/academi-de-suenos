@@ -1,37 +1,10 @@
-:root{
-    --font-poppins: 'Poppins', sans-serif;
-    --font-quicksand: 'Quicksand', sans-serif;
-    /* Font Sizes */
-    --font-normal: 1em;
-    --font-small: 0.8125rem;
-    --max-width: 1280px;
-    --blue: #007bff;
-    --indigo: #6610f2;
-    --purple: #6f42c1;
-    --pink: #ee3577;
-    --red: #FD450C;
-    --orange: #f68e62;
-    --yellow: #ffc107;
-    --green: #28a745;
-    --teal: #20c997;
-    --cyan: #17a2b8;
-    --white: #fff;
-    --gray: #767575;
-    --gray-light:#D0D0D0;
-    --gray-dark: #434242;
-    --primary: #6f42c1;
-    --secondary: #4f4f4f;
-    --black: #111111;
-}
-
-
 .header{
     height: 90px;
     width: 100%;
     position: sticky;
     top: 0;
     z-index: 9;
-    background-color: var(--white);
+    background-color: var(--yellow);
 }
 
 .primary-menu{
