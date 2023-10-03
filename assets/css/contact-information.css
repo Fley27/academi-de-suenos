@@ -45,6 +45,11 @@
     margin: 0;
 }
 
+.c-i-item-information > a{
+    color: var(--white);
+    text-decoration: none;
+}
+
 .c-i-item-information > span{
     display: inline-block;
     font-weight: 600;

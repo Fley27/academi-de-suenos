@@ -2,17 +2,14 @@
     <div class = "layout-home-container">
         <div class = "layout-home-text">
             <div class = "layout-home-title">
-                Lorem Ipsum <br/> lorem Ipsum
+                Unlock Your Future <br/> at Academia De Sueños
             </div>
             <div class = "layout-home-description">
-                By default, Next.js will automatically inline font CSS 
-                at build time, eliminating an extra round trip to fetch 
-                font declarations. This results in improvements to in 
-                improvements in improvements.
+                Welcome to Academia De Sueños, where we unlock your potential and empower you to achieve your dreams. As a specialized education department created by <a href = "https://rivasassociates.com/" target = "blank"><strong>Rivas & Associates</strong></a>, a leading immigration law firm in the USA, we are committed to providing high-quality in-person and online courses that open doors to a bright future.
             </div>
-            <button class = "layout-home-enroll-btn btn-red">
-                Contact Us!
-            </button>
+            <a href = "/course"  class = "layout-home-enroll-btn">
+                Our Courses
+            </a>
         </div>
         <div class = "layout-home-img-container">
             <div class = "layout-home-background-corner-square blue"></div>

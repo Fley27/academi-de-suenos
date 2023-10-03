@@ -6,12 +6,13 @@
                     Naturalization Course 
                 </div>
                 <div class = "course--description">
-                    We aim to provide more holistic services by purposefully preparing 
-                    students for the N-400 citizenship test. Our course objectives 
-                    are two-fold:
-                    <br/>1- Students will be able to speak, read, and write 
-                    English at the high beginning ESL level, and 
-                    <br/>2- Students will be able to correctly answer at least 90 of the 100 civics questions.
+                    Our commitment is to offer comprehensive services geared towards 
+                    thoroughly preparing students for the N-400 citizenship test. 
+                    Our course objectives encompass two primary goals: firstly, 
+                    to enable students to proficiently speak, read, and write 
+                    English at the high beginning ESL level, and secondly, 
+                    to ensure that students can accurately respond to a minimum 
+                    of 90 out of the 100 civics questions.
                 </div>
                 <a href = "#prices" class = "course--btn">
                     Enroll Now!

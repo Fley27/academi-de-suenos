@@ -3,26 +3,26 @@
             <div class = "f-item">
                 <div class = "f-i-title">Academia De Sueños</div>
                 <div class = "f-i-links">
-                    <div class = "f-i-link"><a href = "#">Home</a></div>
-                    <div class = "f-i-link"><a href = "#">About</a></div>
-                    <div class = "f-i-link"><a href = "#">Courses</a></div>
-                    <div class = "f-i-link"><a href = "#">Contact</a></div>
+                    <div class = "f-i-link"><a href = "/">Home</a></div>
+                    <div class = "f-i-link"><a href = "/about-us/">About</a></div>
+                    <div class = "f-i-link"><a href = "/courses/">Courses</a></div>
+                    <div class = "f-i-link"><a href = "/contact-us/">Contact</a></div>
                 </div>
             </div>
 
             <div class = "f-item">
                 <div class = "f-i-title"> Contact Information</div>
                 <div class = "f-i-links">
-                    <div class = "f-i-link"><a href = "#"><i class="fa-solid fa-location-dot"></i><span>Office Address: <br/> 2417 East Admiral Blvd, <br/> Tulsa, Oklahoma 74110, USA</span></a></div>
-                    <div class = "f-i-link"><a href = "#"><i class="fa-solid fa-phone"></i><span>Phone: <br/> (919) 505-4870</span></a></div>
-                    <div class = "f-i-link"><a href = "#"><i class="fa-solid fa-envelope"></i><span>Email: <br/> info@rivasassociates.com</span></a></div>
+                    <div class = "f-i-link"><a href = "#"><i class="fa-solid fa-location-dot"></i><span>Office Address: <br/> 2930 S. Yale Avenue <br/>Tulsa, OK 74114</span></a></div>
+                    <div class = "f-i-link"><a href = "tel:+19182362932"><i class="fa-solid fa-phone"></i><span>Phone: <br/> + 1 (918) 236-2932</span></a></div>
+                    <div class = "f-i-link"><a href = "mailto:info@academiadesuenos.com"><i class="fa-solid fa-envelope"></i><span>Email: <br/> info@academiadesuenos.com</span></a></div>
                 </div>
             </div>
 
             <div class = "f-item">
                 <div class = "f-i-title">More</div>
                 <div class = "f-i-links">
-                    <div class = "f-i-link"><a href = "#">Naturalization Courses</a></div>
+                    <div class = "f-i-link"><a href = "/courses/naturalization/">Naturalization Courses</a></div>
                     <div class = "f-i-link"><a href = "#">English as Second Language</a></div>
                     <div class = "f-i-link"><a href = "#">Why Academia De Sueños</a></div>
                     <div class = "f-i-link"><a href = "#">Enrollment</a></div>

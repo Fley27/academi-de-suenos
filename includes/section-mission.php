@@ -9,10 +9,7 @@
                 Our Mission
             </div>
             <div class="mission-description">
-                Our mission is to help you achieve immigration success. 
-                We know how much you deserve this opportunity. 
-                At Rivas & Associates, through integrity, passion and experience,  
-                turn your American dream into your American reality.
+                Our mission is to offer a diverse range of courses that cater to various interests and goals. While our roots lie in immigration law, we embrace the opportunity to broaden our educational offerings and make a broader impact within our community.
             </div>
         </div>
     </div>

@@ -38,8 +38,15 @@
     line-height: 1.5;
 }
 
+.layout-home-description > a{
+    color: var(--blue);
+}
+
 
 .layout-home-enroll-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     height: 50px;
     width: 170px;
     border: 2px solid var(--blue);

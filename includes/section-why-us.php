@@ -2,14 +2,14 @@
     <div class = "why-us-container">
         <div class = "why-us-text">
             <div class = "why-us-title">
-                Why Academia de Sueños?
+                Why Choose Academia De Sueños?
             </div>
             <div class = "why-us-description">
-                Whether you’re an individual looking to learn Python to advance your career 
-                or an enterprise team looking to cut cycle times, 
-                speed up onboarding, or give your teams the skills 
-                to realize your strategies, we remove the challenges 
-                and roadblocks slowing you down.
+                At Academia De Sueños, we believe that education is the key to unlocking 
+                opportunities and achieving personal growth. 
+                Whether you're seeking to expand your knowledge, develop new skills, 
+                or pursue a specific goal, our courses offer a range of benefits that 
+                make them worth considering.
             </div>
             <a href = "/why-us/" class = "why-us-btn">
                 See More

@@ -1,14 +1,12 @@
 <div id = "outcomes" class="course-section">
     <div class="c-s-title">    
-        Prepare you to past your citizenship test          
+        Elevate your knowledge and skills:     
     </div>
     <div class="c-s-section-body">
         <ul class="c-s-body-ul">
-            <li class="c-s-body-li">Receive professional-level training from Meta</li>
-            <li class="c-s-body-li">Demonstrate your proficiency in portfolio-ready projects</li>
-            <li class="c-s-body-li">Receive career guidance with actionable steps toward landing a job</li>
-            <li class="c-s-body-li">Receive professional-level training from Meta</li>
-            <li class="c-s-body-li">Qualify for in-demand job titles: iOS Developer, Mobile Applications Developer, Mobile Developer</li>
+            <li class="c-s-body-li">Gain expertise in U.S. civics and government</li>
+            <li class="c-s-body-li">Master essential citizenship concepts</li>
+            <li class="c-s-body-li">Prepare for success in the naturalization process</li>
         </ul>
     </div>
 </div>

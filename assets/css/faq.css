@@ -2,6 +2,7 @@
     width: 100%;
     height: fit-content;
     padding: 40px 0;
+    background-color: var(--light-white);
 }
 
 .faq-container{
@@ -31,7 +32,7 @@
 }
 
 .faq-description > a {
-    color: var(--red);
+    color: var(--yellow);
 }
 
 .faq-items{
@@ -78,13 +79,13 @@
 
 .active{
     height: fit-content;
-    border-color: var(--red);
+    border-color: var(--yellow);
     transition: 0.5s all;
 }
 
 .active .x-icon{
     display: inline-block;
-    color: var(--red);
+    color: var(--yellow);
 }
 
 .active .plus-icon{

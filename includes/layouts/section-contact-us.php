@@ -5,14 +5,11 @@
                 Get In Touch  <br/> Today!
             </div>
             <div class = "layout-home-description">
-                Let us know any questions or concerns you may have 
-                - You can email or call us directly and even contact 
-                us through any of our social media accounts. 
-                We will be happy to help you.
+                If you have any questions or concerns, feel free to reach out to us via email, phone, or our social media accounts. We're here to assist you.
             </div>
-            <button class = "layout-home-enroll-btn">
-                <a href = "#contact">Contact Us</a>
-            </button>
+            <a href = "#contact" class = "layout-home-enroll-btn">
+                Contact Us
+            </a>
         </div>
         <div class = "layout-home-img-container">
             <div class = "layout-home-background-corner-square beige"></div>

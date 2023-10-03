@@ -2,21 +2,18 @@
     <div class = "layout-home-container">
         <div class = "layout-home-text">
             <div class = "layout-home-title">
-                Let’s us Help <br/>
-                You by Helping <br/>
-                You Make Your <br/>
-                American Dream <br/>
+                Let us Help You <br/>Make Your American Dream a Reality.
             </div>
             <div class = "layout-home-description">
-                We will train you to make the exam really 
-                easy for you. In the last years, a good 
-                understand of English is also required -  
-                and  that’s why we also offer an English 
-                course (ESL).
+                Discover a world of opportunities with our expert guidance and support. 
+                Our dedicated team is here to help you navigate the path towards achieving 
+                your American dream. Whether it's immigration, education, career advancement, 
+                or starting a new life in the USA, we're committed to making your dreams 
+                a reality. Join us on this transformative journey, where your aspirations become possibilities.
             </div>
-            <button class = "layout-home-enroll-btn btn-red">
-                Enroll Now!
-            </button>
+            <a href = "#courses" class = "layout-home-enroll-btn">
+                Our Courses
+            </a>
         </div>
         <div class = "layout-home-img-container">
             <div class = "layout-home-background-corner-square yellow"></div>

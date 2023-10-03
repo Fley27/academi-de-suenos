@@ -174,7 +174,7 @@
 
     .hamburger-icon > div{
         height: 2px;
-        background-color: var(--black);
+        background-color: var(--white);
         margin-left: auto;
     }
 
