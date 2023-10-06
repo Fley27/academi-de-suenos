@@ -2,7 +2,7 @@
     <div class = "why-us-container">
         <div class = "why-us-text">
             <div class = "why-us-title">
-                Why Academia de Sueños?
+                Why Choose Academia de Sueños?
             </div>
             <div class = "why-us-description">
                 <p>

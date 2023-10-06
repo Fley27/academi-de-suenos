@@ -23,9 +23,7 @@
                 <div class = "f-i-title">More</div>
                 <div class = "f-i-links">
                     <div class = "f-i-link"><a href = "/courses/naturalization/">Naturalization Courses</a></div>
-                    <div class = "f-i-link"><a href = "#">English as Second Language</a></div>
-                    <div class = "f-i-link"><a href = "#">Why Academia De Sueños</a></div>
-                    <div class = "f-i-link"><a href = "#">Enrollment</a></div>
+                    <div class = "f-i-link"><a href = "/why-us">Why choose Academia De Sueños</a></div>
                 </div>
             </div>
         </div>
