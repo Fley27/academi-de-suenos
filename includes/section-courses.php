@@ -3,7 +3,7 @@
         <div class = "courses--title">Our Courses</div>
         <div class = "courses-available">
             <a href = "/courses/naturalization" class = "c-a-course">
-                <img class = "c-a-course-img" src="https://i.imgur.com/7ZVTRZW.jpg" alt="naturalization course at academia de sueños" loading="lazy">
+                <img class = "c-a-course-img" src="https://academiadesuenos.com/wp-content/uploads/2023/10/nat-course-scaled.jpg" alt="naturalization course at academia de sueños" loading="lazy">
                 <div class = "c-a-course-text">
                     <div class = "c-a-course-title">Naturalization Course</div>
                     <div class = "c-a-course-description">
@@ -14,7 +14,7 @@
                 </div>
             </a>
             <a href = "/courses/naturalization" class = "c-a-course">
-                <img class = "c-a-course-img" src="https://i.imgur.com/dnVO0yc.jpg" alt="Esnglish as second language course at academia de sueños" loading="lazy">
+                <img class = "c-a-course-img" src="https://academiadesuenos.com/wp-content/uploads/2023/10/esl-course.jpg" alt="Esnglish as second language course at academia de sueños" loading="lazy">
                 <div class = "c-a-course-text">
                     <div class = "c-a-course-title">English as Second Language</div>
                     <div class = "c-a-course-description">

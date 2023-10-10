@@ -16,9 +16,9 @@
             </a>
         </div>
         <div class = "layout-home-img-container">
-            <div class = "layout-home-background-corner-square yellow"></div>
+            <div class = "layout-home-background-corner-square blue"></div>
             <div class = "layout-home-img-background red"></div>
-            <img class = "layout-home-img left" src="https://i.imgur.com/lFveOF2.png" alt="Academia De Sueños" loading="lazy">
+            <img class = "layout-home-img" src="https://academiadesuenos.com/wp-content/uploads/2023/10/courses.png" alt="Academia De Sueños" loading="lazy">
         </div>
     </div>
     <div class="layout-home-background-mobile-version red"></div>

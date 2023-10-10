@@ -23,6 +23,7 @@
         wp_enqueue_style('custom-modal-registration-style', get_stylesheet_directory_uri() . '/assets/css/modal-registration.css', array(), '1.0', 'all');
         wp_enqueue_style('custom-success-style', get_stylesheet_directory_uri() . '/assets/css/success.css', array(), '1.0', 'all');
         wp_enqueue_style('custom-my-account-style', get_stylesheet_directory_uri() . '/assets/css/my-account.css', array(), '1.0', 'all');
+        wp_enqueue_style('custom-coming-soon-style', get_stylesheet_directory_uri() . '/assets/css/coming-soon.css', array(), '1.0', 'all');
     }
 
     add_action('wp_enqueue_scripts', 'enqueue_custom_styles');   

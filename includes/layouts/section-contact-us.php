@@ -12,9 +12,9 @@
             </a>
         </div>
         <div class = "layout-home-img-container">
-            <div class = "layout-home-background-corner-square beige"></div>
+            <div class = "layout-home-background-corner-square yellow"></div>
             <div class = "layout-home-img-background"></div>
-            <img class = "layout-home-img left-contact" src="https://i.imgur.com/3jMV8hW.png" alt="Academia De Sueños" loading="lazy">
+            <img class = "layout-home-img" src="https://academiadesuenos.com/wp-content/uploads/2023/10/home-picture-removebg-preview.png" alt="Academia De Sueños" loading="lazy">
         </div>
     </div>
     <div class="layout-home-background-mobile-version"></div>
