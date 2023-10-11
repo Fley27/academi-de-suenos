@@ -1,7 +1,9 @@
 <header class = "header">
         <div class = "primary-menu">
             <div class = "header-logo">
-                <a href = "#" >Academia <br/> De Sueños</a>
+                <a href = "/" >
+                    <img class="ads-logo" src="https://academiadesuenos.com/wp-content/uploads/2023/10/academia-3.2.png" alt="Academia De Sueños" loading="lazy">
+                </a>
             </div>
 
             <?php

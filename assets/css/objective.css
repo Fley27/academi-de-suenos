@@ -34,8 +34,8 @@
 }
 
 .objective-text-title{
-    font-size: 50px;
-    font-weight: 300;
+    font-size: 40px;
+    font-weight: 600;
     line-height: 1.2;
     text-transform: uppercase;
     font-family: var(--font-poppins);

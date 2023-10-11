@@ -36,7 +36,7 @@
                         </div>
                     </div>
                     <div class = "faq-item-description">
-                        Our instructor is experienced professionals with expertise a native English-speaking 
+                        Our instructor is experienced professionals native English-speaking 
                         licensed attorney and certified bilingual teacher providing high-quality education 
                         to our students.
                     </div>
@@ -57,7 +57,7 @@
                     <div class = "faq-item-description">
                         To enroll in a course, simply visit our website, browse our course catalog, 
                         and select the course you're interested in. Follow the enrollment instructions 
-                        provided on the course page.
+                        provided on the course page. For more information, please email us at <a href = "mailTo:info@academiadesuenos.com">info@academiadesuenos.com</a> and/or call us at <a href = "tel:1 (918) 236-2932">1 (918) 236-2932</a>
                     </div>
                 </div>
             </div>
@@ -113,7 +113,7 @@
                     <div class = "faq-item-description">
                         You can communicate with instructors through our course platform, 
                         email, or any other communication method specified by the instructor. 
-                        We encourage active engagement with instructors to enhance your learning experience.
+                        We encourage active engagement with instructors to enhance your learning experience. 
                     </div>
                 </div>
             </div>

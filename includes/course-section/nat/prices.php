@@ -8,7 +8,7 @@
 
         <div class="packages">
             <div class="package">
-                <div class="package-title">In-Person <br/>for R&A Clients</div>
+                <div class="package-title">IN-PERSON <br/> FOR NEW R&A CLIENTS</div>
                 <div class="package-description">
                     Includes in-person classes and access to course materials via our Learning Management System (LMS), which is Canvas. Additionally, all curriculum is taught by a native English-speaking licensed attorney and a certified bilingual teacher. The course lasts for 5 weeks, with 2 classes per week, each lasting one hour
                 </div>

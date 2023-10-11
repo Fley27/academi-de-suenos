@@ -4,7 +4,7 @@
     position: sticky;
     top: 0;
     z-index: 9;
-    background-color: var(--yellow);
+    background-color: var(--light-white);
 }
 
 .primary-menu{
@@ -28,6 +28,19 @@
     font-weight: 700;
     line-height: 1;
     color: var(--blue);
+}
+
+
+.header-logo > a{
+    display: block;
+    height: fit-content;
+    width: fit-content;
+}
+
+
+.ads-logo{
+    width: auto;
+    height: 90px;
 }
 
 .menu-desktop-menu-container{
@@ -174,8 +187,7 @@
 
     .hamburger-icon > div{
         height: 2px;
-        background-color: var(--white);
-        margin-left: auto;
+        background-color: var(--blue);
     }
 
     .bar-0{

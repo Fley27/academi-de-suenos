@@ -29,6 +29,7 @@
 .faq-description{
     font-family: var(--font-quicksand);
     font-size: 18px;
+    text-align: justify;
 }
 
 .faq-description > a {
@@ -74,6 +75,12 @@
 .faq-item-description, 
 .x-icon{
     display: none;
+}
+
+
+.faq-item-description > a{
+    color: var(--yellow);
+    font-weight: 600;
 }
 
 
