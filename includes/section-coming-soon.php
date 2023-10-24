@@ -6,7 +6,7 @@
         <p class="description-coming">
             We are working very hard to give you the best experience with our website. 
             We are currently working on something amazing. Stay tuned!</br>
-            For more information please contact us at <a href="mailto:info@academiadesuenos.com">info@academiadesuenos.com</a>        
+            For more information please contact us at <a href="mailto:info@colegiodesuenos.com">info@colegiodesuenos.com</a>        
         </p>
 
     </div>

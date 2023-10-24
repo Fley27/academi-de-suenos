@@ -29,7 +29,7 @@
                     R&A Email Address
                 </div>
                 <div class="c-i-item-information">
-                    <a href="mailto:info@academiadesuenos.com">info@academiadesuenos.com</a>
+                    <a href="mailto:info@academiadesuenos.com">info@colegiodesuenos.com</a>
                 </div>
             </div>
         </div>

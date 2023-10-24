@@ -7,7 +7,7 @@
             <div class = "faq-items">
                 <div class = "faq-item">
                     <div class = "faq-item-header">
-                        <div class = "faq-item-title">What is Academia De Sueños?</div>
+                        <div class = "faq-item-title">What is Colegio De Sueños?</div>
                         <div class = "faq-item-icon">
                             <span class = "plus-icon">
                                 <i class="fa-solid fa-plus" style="color: #000000;"></i>
@@ -18,14 +18,14 @@
                         </div>
                     </div>
                     <div class = "faq-item-description">
-                        Academia De Sueños is an educational platform offering a wide range of courses 
+                        Colegio De Sueños is an educational platform offering a wide range of courses 
                         designed to empower individuals through knowledge and skills. We specialize 
                         in immigration law education but also offer courses in various other fields.
                     </div>
                 </div> 
                 <div class = "faq-item">
                     <div class = "faq-item-header">
-                        <div class = "faq-item-title">Who is the Instructor at Academia De Sueños?</div>
+                        <div class = "faq-item-title">Who is the Instructor at Colegio De Sueños?</div>
                         <div class = "faq-item-icon">
                             <span class = "plus-icon">
                                 <i class="fa-solid fa-plus" style="color: #000000;"></i>
@@ -57,7 +57,7 @@
                     <div class = "faq-item-description">
                         To enroll in a course, simply visit our website, browse our course catalog, 
                         and select the course you're interested in. Follow the enrollment instructions 
-                        provided on the course page. For more information, please email us at <a href = "mailTo:info@academiadesuenos.com">info@academiadesuenos.com</a> and/or call us at <a href = "tel:1 (918) 236-2932">1 (918) 236-2932</a>
+                        provided on the course page. For more information, please email us at <a href = "mailTo:info@colegiodesuenos.com">info@Colegiodesuenos.com</a> and/or call us at <a href = "tel:1 (918) 236-2932">1 (918) 236-2932</a>
                     </div>
                 </div>
             </div>

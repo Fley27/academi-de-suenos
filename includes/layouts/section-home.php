@@ -5,7 +5,7 @@
                 ¡Su Triunfo <br/>Empieza Aquí!
             </div>
             <div class = "layout-home-description">
-                Academia De Sueños is partner of Rivas & Associates
+                Colegio De Sueños is partner of Rivas & Associates
                 with the same passion and mission to help Immigrants 
                 achieve their American Dream - By empowering them to achieve 
                 their personal and professional goals. ¡Su triunfo empieza aquí!
@@ -17,7 +17,7 @@
         <div class = "layout-home-img-container">
             <div class = "layout-home-background-corner-square yellow"></div>
             <div class = "layout-home-img-background"></div>
-            <img class = "layout-home-img" src="https://academiadesuenos.com/wp-content/uploads/2023/10/home-picture-removebg-preview.png" loading="lazy" alt = "academia de suenos">
+            <img class = "layout-home-img" src="https://academiadesuenos.com/wp-content/uploads/2023/10/home-picture-removebg-preview.png" loading="lazy" alt = "Colegio de suenos">
         </div>
     </div>
     <div class="layout-home-background-mobile-version"></div>

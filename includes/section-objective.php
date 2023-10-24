@@ -1,7 +1,7 @@
 <div class = "objective">
     <div class = "objective-container">
 
-        <img class = "objective-img" src="https://i.imgur.com/H8m2pcw.png" alt="Tracy Smith Academia De Sueños Manager" loading="lazy">
+        <img class = "objective-img" src="https://i.imgur.com/H8m2pcw.png" alt="Tracy Smith from Colegio De Sueños Manager" loading="lazy">
 
         <div class = "objective-text">
             <div class = "objective-text-title">Our Objective</div>

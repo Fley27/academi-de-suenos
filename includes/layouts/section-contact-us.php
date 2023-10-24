@@ -5,7 +5,8 @@
                 Get In Touch  <br/> Today!
             </div>
             <div class = "layout-home-description">
-                If you have any questions or concerns, feel free to reach out to us via email, phone, or our social media accounts. We're here to assist you.
+                If you have any questions or concerns, feel free to reach out to us via email, 
+                phone, or our social media accounts. We're here to assist you.
             </div>
             <a href = "#contact" class = "layout-home-enroll-btn">
                 Contact Us

@@ -1,0 +1,74 @@
+<div class = "top-header">
+    <div class="longer">
+        <span>
+            English
+            <i class="fa-solid fa-caret-down"></i>
+        </span>
+    </div>
+    <div class="item">
+        <span>
+            <a href="tel:">
+                829 987-5500
+            </a>
+        </span>
+         <span>/</span>
+        <span>
+            <a href="tel:">
+                829 987-5500
+            </a>
+        </span>
+    </div>
+</div>
+
+
+.top-header{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    justify-content: space-between;
+    border-bottom:1px solid #9C9A9A;
+    margin-bottom: 10px; 
+}
+
+
+.item{
+    width: 320px;
+    border-left: 1px solid #9C9A9A;
+    padding: 10px 30px;
+}
+
+.item > span{
+    color: #327CDC;
+    font-size: 16px;
+    font-family:  "Nunito Sans", Sans-serif;
+}
+
+
+.item > span > a:hover{
+    color: #216961;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+.longer{
+    width: calc(100% - 320px);
+    padding: 10px 30px;
+}
+
+.longer > span{
+    display: inline-block;
+    width: 100%;
+    text-align: right;
+    color: #216961;
+    font-size: 16px;
+    font-family: "Nunito Sans", Sans-serif;
+    font-weight: 600;
+    text-transform: uppercase
+}
+
+.longer > span > i{
+    color: #216961;
+}

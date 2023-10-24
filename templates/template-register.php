@@ -25,7 +25,7 @@
 
         <footer  class = "footer-registration">
             <div class="f-r-copyright">
-                © 2023 <a href = "/">Academia de Sueños.</a> All rights reserved.
+                © 2023 <a href = "/">Colegio de Sueños.</a> All rights reserved.
             </div>
         </footer>
     </div>
