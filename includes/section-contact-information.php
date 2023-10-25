@@ -3,14 +3,13 @@
         <div class="c-i-items">
             <div class="c-i-item">
                 <div class="c-i-item-title">
-                    R&A Addresses
+                    Location
                 </div>
                 
                 <div class="c-i-item-information">
-                    <span class="c-i-item-information-title">Tulsa Yale Address:</span>
                     <br/>
-                    2930 S. Yale Avenue <br/>
-                    Tulsa, OK 74114
+                    2417 East Admiral Blvd, <br/>
+                    Tulsa, Oklahoma 74110, USA
                 </div>
                 
             </div>
@@ -18,7 +17,7 @@
         <div class="c-i-items">
             <div class="c-i-item">
                 <div class="c-i-item-title">
-                    R&A Phone Number
+                    Phone Number
                 </div>
                 <div class="c-i-item-information">
                     <a href="tel:+19182362932">+ 1 (918) 236-2932</a>
@@ -26,7 +25,7 @@
             </div>
             <div class="c-i-item">
                 <div class="c-i-item-title">
-                    R&A Email Address
+                    Email Address
                 </div>
                 <div class="c-i-item-information">
                     <a href="mailto:info@academiadesuenos.com">info@colegiodesuenos.com</a>

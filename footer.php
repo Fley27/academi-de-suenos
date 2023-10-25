@@ -13,7 +13,7 @@
             <div class = "f-item">
                 <div class = "f-i-title"> Contact Information</div>
                 <div class = "f-i-links">
-                    <div class = "f-i-link"><a href = "#"><i class="fa-solid fa-location-dot"></i><span>Office Address: <br/> 2930 S. Yale Avenue <br/>Tulsa, OK 74114</span></a></div>
+                    <div class = "f-i-link"><a href = "#"><i class="fa-solid fa-location-dot"></i><span>Office Address: <br/> 2417 East Admiral Blvd, <br/> Tulsa, Oklahoma 74110, USA</span></a></div>
                     <div class = "f-i-link"><a href = "tel:+19182362932"><i class="fa-solid fa-phone"></i><span>Phone: <br/> + 1 (918) 236-2932</span></a></div>
                     <div class = "f-i-link"><a href = "mailto:info@colegiodesuenos.com"><i class="fa-solid fa-envelope"></i><span>Email: <br/> info@colegiodesuenos.com</span></a></div>
                 </div>
