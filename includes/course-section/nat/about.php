@@ -9,15 +9,15 @@
         </div>
         <div class="c-s-b-item">
             <i class="fa-solid fa-check"></i>
-            <span><strong>Civics Knowledge:</strong>  Our course ensures a deep understanding of U.S. government, history, and civic principles, preparing students to confidently answer at least 90 out of 100 civics questions in the naturalization interview.</span>
+            <span><strong>Civics Knowledge:</strong>Our course ensures a deep understanding of U.S. government, history, and civic principles, preparing students to confidently answer at least 90 out of 100 civics questions.</span>
         </div>
         <div class="c-s-b-item">
             <i class="fa-solid fa-check"></i>
-            <span><strong>Test-Taking Skills: </strong>Students will have developed effective test-taking strategies, enhancing their performance and confidence during the citizenship test</span>
+            <span><strong>Test-Taking Skills: </strong>Students will develop effective test-taking strategies to enhance their confidence and performance during the citizenship test.</span>
         </div>
         <div class="c-s-b-item">
             <i class="fa-solid fa-check"></i>
-            <span><strong>Interview Preparation: </strong>Students be prepared for the naturalization interview process, ensuring they feel confident and at ease when answering questions from immigration officials.</span>
+            <span><strong>Interview Preparation: </strong>Students will be prepared for the naturalization interview process, ensuring they feel confident and at ease when answering questions from immigration officials.</span>
         </div>
         <div class="c-s-b-item">
             <i class="fa-solid fa-check"></i>

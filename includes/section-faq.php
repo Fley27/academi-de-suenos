@@ -36,9 +36,9 @@
                         </div>
                     </div>
                     <div class = "faq-item-description">
-                        Our instructor is experienced professionals native English-speaking 
-                        licensed attorney and certified bilingual teacher providing high-quality education 
-                        to our students.
+                        Our instructor, Tracy Smith, is a native English-speaking licensed attorney 
+                        and certified bilingual teacher. She has taught for 14 years and is committed 
+                        to delivering high-quality education to our students. 
                     </div>
                 </div>
                 <div class = "faq-item">
@@ -75,9 +75,9 @@
                         </div>
                     </div>
                     <div class = "faq-item-description">
-                        Not yet, Currently we only offer in-person course. 
-                        But soon we will have an online version for each of our courses, 
-                        so you'll be able to choose the learning format that best suits your needs and schedule.
+                        Not yet. Currently, we only offer in-person instruction. 
+                        We will soon have hybrid (both in-person and online) options available, 
+                        so you may choose the format that works best for your needs and learning style!
                     </div>
                 </div>
                 <div class = "faq-item">

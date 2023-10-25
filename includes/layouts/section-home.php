@@ -5,10 +5,11 @@
                 ¡Su Triunfo <br/>Empieza Aquí!
             </div>
             <div class = "layout-home-description">
-                Colegio De Sueños is partner of Rivas & Associates
-                with the same passion and mission to help Immigrants 
-                achieve their American Dream - By empowering them to achieve 
-                their personal and professional goals. ¡Su triunfo empieza aquí!
+                Colegio De Sueños is a partner of Rivas & Associates 
+                with the same passion and mission to help immigrants 
+                achieve their American Dream by empowering them to achieve 
+                their personal and professional goals. 
+                ¡Su triunfo empieza aquí!
             </div>
             <a href = "/course" class = "layout-home-enroll-btn">
                 Our Courses

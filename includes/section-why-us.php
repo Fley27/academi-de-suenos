@@ -5,7 +5,7 @@
                 Why Choose Colegio De Sueños?
             </div>
             <div class = "why-us-description">
-                At Colegio De Sueños, we believe that education is the key to unlocking 
+                At Colegio de Sueños, we believe that education is the key to unlocking 
                 opportunities and achieving personal growth. 
                 Whether you're seeking to expand your knowledge, develop new skills, 
                 or pursue a specific goal, our courses offer a range of benefits that 

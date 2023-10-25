@@ -2,7 +2,7 @@
         <div class = "primary-menu">
             <div class = "header-logo">
                 <a href = "/" >
-                    <img class="ads-logo" src="https://academiadesuenos.com/wp-content/uploads/2023/10/academia-3.2.png" alt="Academia De Sueños" loading="lazy">
+                    <img class="ads-logo" src="https://colegiodesuenos.com/wp-content/uploads/2023/10/colegiods33.png" alt="Academia De Sueños" loading="lazy">
                 </a>
             </div>
 
