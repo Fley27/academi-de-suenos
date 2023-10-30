@@ -5,27 +5,27 @@
     <div class="c-s-section-body">
         <div class="c-s-b-item">
             <i class="fa-solid fa-check"></i>
-            <span><strong>English Proficiency: </strong>Students will achieve high-beginning ESL-level fluency, enabling effective communication in daily life and during the citizenship interview.</span>
+            <span><strong>Grammar and Syntax: </strong>Our course put a strong emphasis on the fundamentals of English grammar, including verb tenses, sentence structure, and word order.</span>
         </div>
         <div class="c-s-b-item">
             <i class="fa-solid fa-check"></i>
-            <span><strong>Civics Knowledge:</strong>Our course ensures a deep understanding of U.S. government, history, and civic principles, preparing students to confidently answer at least 90 out of 100 civics questions.</span>
+            <span><strong>Vocabulary Building: </strong>As students you will learn new words and phrases to expand their English vocabulary.</span>
         </div>
         <div class="c-s-b-item">
             <i class="fa-solid fa-check"></i>
-            <span><strong>Test-Taking Skills: </strong>Students will develop effective test-taking strategies to enhance their confidence and performance during the citizenship test.</span>
+            <span><strong>Listening Comprehension: </strong>Developing the ability to understand spoken English is crucial. This involves listening to a variety of accents and dialects.</span>
         </div>
         <div class="c-s-b-item">
             <i class="fa-solid fa-check"></i>
-            <span><strong>Interview Preparation: </strong>Students will be prepared for the naturalization interview process, ensuring they feel confident and at ease when answering questions from immigration officials.</span>
+            <span><strong>Speaking and Pronunciation: </strong>We will also work on improving students' speaking skills, including pronunciation, intonation, and fluency. Students practice speaking through structured exercises, discussions, and presentations.</span>
         </div>
         <div class="c-s-b-item">
             <i class="fa-solid fa-check"></i>
-            <span><strong>Legal Requirements: </strong>Ensure students are aware of the legal requirements for citizenship, including residency and good moral character.</span>
+            <span><strong>Reading Comprehension: </strong>Reading materials can range from simple texts to complex articles or literature. Students learn to understand and interpret written English.</span>
         </div>
         <div class="c-s-b-item">
             <i class="fa-solid fa-check"></i>
-            <span><strong>Support and Guidance: </strong>Provide guidance and support throughout the naturalization process, from application submission to the final oath ceremony.</span>
+            <span><strong>Listening and Speaking Exercises: </strong>Include activities like role-plays, group discussions, debates, and listening comprehension exercises to build practical communication skills.</span>
         </div>
     </div>
 </div>

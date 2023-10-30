@@ -3,7 +3,7 @@
         <div class="course--container-header">
             <div class = "course--text">
                 <div class = "course--title">
-                    English as Second <br/>Language Course 
+                    Introduction to English <br/>as a Second Language
                 </div>
                 <div class = "course--description">
                     Welcome to the "Introduction to English as a Second Language" 
@@ -22,19 +22,19 @@
         </div>
         <div class="body-course-content">
             <?php
-                get_template_part("includes/course-section/nat/tab");
+                get_template_part("includes/course-section/esl/tab");
             ?>
             <?php 
-                get_template_part("includes/course-section/nat/about");
+                get_template_part("includes/course-section/esl/about");
             ?>
             <?php
-                get_template_part("includes/course-section/nat/outcome");
+                get_template_part("includes/course-section/esl/outcome");
             ?>
             <?php
-                get_template_part("includes/course-section/nat/curriculum");
+                get_template_part("includes/course-section/esl/curriculum");
             ?>
             <?php
-                get_template_part("includes/course-section/nat/prices");
+                get_template_part("includes/course-section/esl/prices");
             ?>            
         </div>
     </div>

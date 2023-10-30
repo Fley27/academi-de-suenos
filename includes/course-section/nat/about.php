@@ -9,7 +9,7 @@
         </div>
         <div class="c-s-b-item">
             <i class="fa-solid fa-check"></i>
-            <span><strong>Civics Knowledge:</strong>Our course ensures a deep understanding of U.S. government, history, and civic principles, preparing students to confidently answer at least 90 out of 100 civics questions.</span>
+            <span><strong>Civics Knowledge: </strong>Our course ensures a deep understanding of U.S. government, history, and civic principles, preparing students to confidently answer at least 90 out of 100 civics questions.</span>
         </div>
         <div class="c-s-b-item">
             <i class="fa-solid fa-check"></i>

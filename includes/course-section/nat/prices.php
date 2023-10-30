@@ -15,7 +15,7 @@
                 <div class="package-class-number">2 CLASSES / WEEK</div>
                 <div class="package-bar"></div>
                 <div class="package-price">USD $300</div>
-                <?php echo do_shortcode('[wp_stripe_checkout id="75"]'); ?>
+                <?php echo do_shortcode('[wp_stripe_checkout id="111"]'); ?>
             </div>
 
             <div class="package package-blue">
@@ -26,7 +26,7 @@
                 <div class="package-class-number">2 CLASSES / WEEK</div>
                 <div class="package-bar"></div>
                 <div class="package-price">USD $400</div>
-                <?php echo do_shortcode('[wp_stripe_checkout id="75"]'); ?>
+                <?php echo do_shortcode('[wp_stripe_checkout id="76"]'); ?>
             </div>
 
             <div class="package">
@@ -37,7 +37,7 @@
                 <div class="package-class-number">2 CLASSES / WEEK</div>
                 <div class="package-bar"></div>
                 <div class="package-price">USD $600</div>
-                <?php echo do_shortcode('[wp_stripe_checkout id="76"]'); ?>
+                <?php echo do_shortcode('[wp_stripe_checkout id="75"]'); ?>
             </div>
         </div>
     </div>
