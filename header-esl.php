@@ -8,7 +8,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
+    <meta name="description" content="Academia De Sueños">
     <meta name = "keywords" content = "">
     <meta name="author" content="https://github.com/fley27">    
     <link rel="shortcut icon" href="images/logo.png"> 
@@ -19,6 +19,7 @@
     <?php
         wp_head();
     ?>
+
 </head>
 
 <body class = "main">
@@ -27,8 +28,5 @@
     ?>  
     <?php
         get_template_part('includes/section', "secondary-menu");
-    ?>
-    <?php
-        get_template_part('includes/layouts/section', "home");
     ?>
 
