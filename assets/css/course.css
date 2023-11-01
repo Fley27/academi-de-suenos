@@ -104,7 +104,6 @@
     font-family: var(--font-quicksand);
 }
 
-
 .tab-course > a{
     font-size: 17px;
     display: inline-block;
@@ -116,13 +115,11 @@
     font-weight: 500;
 }
 
-
 .course-section{
     width: 100%;
     height: fit-content;
     font-family: var(--font-quicksand);
 }
-
 
 .c-s-title{
     font-size: 17px;
@@ -140,7 +137,6 @@
     margin-bottom: 30px;
 }
 
-
 .c-s-body-ul{
     width: 100%;
     height: fit-content;
@@ -151,7 +147,6 @@
     margin-left: 30px;
     margin-bottom: 30px;
 }
-
 
 .c-s-b-item{
     width: 45%;
@@ -245,7 +240,6 @@
     margin-bottom: 20px;
 }
 
-
 .uncollapsed > .curriculum-table-row-header .c-t-r-item-icon > .angle-down{
     display: none;
 }
@@ -291,11 +285,7 @@
     max-width: 850px;
 }
 
-
 .package{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
     justify-content: center;
     max-width: 350px;
     min-width: 350px;
@@ -308,6 +298,26 @@
     font-family: var(--font-quicksand);
     border-radius: 10px;
     margin-bottom: 20px;
+}
+
+.asp_product_item{
+    width: 100%;
+    display: flex !important;
+    flex-direction: column;
+    align-items: center;
+    border: 0 !important;
+    box-shadow: none !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    padding: 0 !important;
+}
+
+.asp_product_name{
+    font-size: 25px !important;
+    font-weight: 700 !important;
+    text-align: center !important;
+    text-transform: uppercase !important;
+    line-height: normal !important;
 }
 
 .package:nth-child(1){
@@ -355,6 +365,44 @@
     margin: 20px auto;
     color: var(--blue);
     font-family: var(--font-poppins);
+}
+
+.asp_price_amount{
+    font-size: 25px !important;
+    font-weight: 500 !important;
+    width: 100%;
+    margin: 20px auto !important;
+    color: var(--blue) !important;
+    font-family: var(--font-poppins) !important;
+}
+
+.asp_price_amount::before{
+    content: "USD ";
+}
+
+.asp_product_buy_btn{
+    margin: 0 auto;
+    display: block;
+    margin-top: 30px;
+    height: 55px !important;
+    width: 190px !important;
+    background: var(--yellow) !important; 
+    background-color: var(--yellow)  !important;
+    display: flex  !important;
+    justify-content: center !important;
+    align-items: center !important;
+    color: var(--white) !important;
+    font-weight: 600 !important;
+    border-radius: 30px !important;
+    border: 0 !important;
+    font-family: var(--font-quicksand) !important;
+    font-size: 17px !important;
+    font: optional !important;
+    text-shadow: none !important;
+}
+
+.asp_product_buy_btn:hover{
+    cursor: pointer;
 }
 
 .package-btn,
