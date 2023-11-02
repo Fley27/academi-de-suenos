@@ -60,7 +60,7 @@
 html{
     height: 100%;
     width: 100%;
-    margin: 0 auto !important;
+    margin: 0 auto !important;                                                                           
     
 }
 
@@ -68,4 +68,3 @@ a{
     text-decoration: none;
     color: var(--dark);
 }
-
