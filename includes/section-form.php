@@ -7,4 +7,4 @@
             echo do_shortcode('[contact-form-7 id="6f11a98" title="academia-de-suenos"]');
         ?>
     </div>
-</div>
+</div>                                                                                                                                                                         
