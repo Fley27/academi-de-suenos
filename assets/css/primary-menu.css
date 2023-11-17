@@ -148,6 +148,12 @@
         font-size: 25px;
     }
 
+    .ads-logo{
+        width: auto;
+        height: 60px;
+    }
+    
+
     .menu-desktop-menu-container,
     .right-nav{
         display: none;

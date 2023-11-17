@@ -38,7 +38,8 @@
     --breakpoint-sm: 576px;
     --breakpoint-md: 768px;
     --breakpoint-lg: 992px;
-    --breakpoint-xl: 1200px;--font-poppins: 'Poppins', sans-serif;
+    --breakpoint-xl: 1200px;
+    --font-poppins: 'Poppins', sans-serif;
     --font-quicksand: 'Quicksand', sans-serif;
     /* Font Sizes */
     --font-normal: 1em;
