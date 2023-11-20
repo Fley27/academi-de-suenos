@@ -24,6 +24,7 @@
                 <div class = "f-i-links">
                     <div class = "f-i-link"><a href = "/courses/naturalization/">Naturalization Courses</a></div>
                     <div class = "f-i-link"><a href = "/why-us">Why choose Colegio De Sueños</a></div>
+                    <div class = "f-i-link"><a href = "/privacy-policy">Privacy Policy</a></div>
                 </div>
             </div>
         </div>

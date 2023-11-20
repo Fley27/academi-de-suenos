@@ -4,7 +4,7 @@
     position: sticky;
     top: 0;
     z-index: 9;
-    background-color: var(--light-white);
+    background-color: var(--white);
 }
 
 .primary-menu{
@@ -44,8 +44,8 @@
 }
 
 .menu-desktop-menu-container{
-    width: 45%;
-    min-width: 400px;
+    width: 60%;
+    min-width: fit-content;
 }
 
 .navbar {
@@ -63,7 +63,7 @@
 }
 
 
-.menu-desktop-menu-container .navbar > .current_page_item > a{
+.menu-desktop-menu-container .navbar > .current-menu-item > a{
     color: var(--black);
     font-weight: 500;
 }
@@ -125,6 +125,19 @@
 .open > .hamburger-icon,
 .secondary-menu-button{
     display: none;
+}
+
+
+.menu-item-object-language_switcher{
+    background-color: var(--blue);
+    padding: 10px 25px;
+    border: 1px solid var(--yellow);
+    border-radius: 25px;
+}
+
+.trp-ls-language-name{
+    color: var(--yellow);
+    font-size: 15px;
 }
 
 @media only screen and (max-width: 1000px) {

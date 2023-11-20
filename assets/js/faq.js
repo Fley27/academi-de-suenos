@@ -5,3 +5,12 @@ jQuery(document).ready(function(){
     })
 })
 
+
+jQuery(document).ready(function(){
+    var lang = jQuery(".trp-ls-language-name").text();
+
+    if(lang === "Español de México")
+        jQuery(".trp-ls-language-name").html("Español");
+})
+
+

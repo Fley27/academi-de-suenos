@@ -27,7 +27,7 @@
     --primary: #6f42c1;
     --secondary: #4f4f4f;
     --success: #28a745;
-    --info: #17a2b8;
+    --info: #17a2b8; 
     --warning: #ffc107;
     --danger: #dc3545;
     --light: #c2c2c2;
@@ -45,6 +45,7 @@
     --font-normal: 1em;
     --font-small: 0.8125rem;
     --max-width: 1280px;
+    --overlay: #0000008c;
 }
 
 *{

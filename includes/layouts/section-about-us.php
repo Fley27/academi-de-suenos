@@ -14,7 +14,7 @@
         <div class = "layout-home-img-container">
             <div class = "layout-home-background-corner-square blue"></div>
             <div class = "layout-home-img-background red"></div>
-            <img class = "layout-home-img short" src="https://academiadesuenos.com/wp-content/uploads/2023/10/about-removebg-preview.png" alt="Colegio De Sueños" loading="lazy">
+            <img class = "layout-home-img short" src="https://colegiodesuenos.com/wp-content/uploads/2023/11/about-removebg-preview.png" alt="Colegio De Sueños" loading="lazy">
         </div>
     </div>
     <div class="layout-home-background-mobile-version red"></div>
