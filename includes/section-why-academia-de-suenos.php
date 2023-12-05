@@ -19,7 +19,7 @@
                     You can trust that you're receiving top-notch education from experts 
                     who are passionate about sharing their knowledge.
                 </p>
-                <br/>
+                <br/> 
                 <p>
                     <strong>2. Comprehensive Curriculum:</strong> We take pride in offering comprehensive 
                     and well-structured courses that cover all the essential aspects of the subject matter. 
@@ -46,5 +46,5 @@
             </div>
         </div>
         <img class = "why-us-img" src="<?php echo get_template_directory_uri(); ?>/assets/images/puzzle.webp" alt="puzzle Colegio De Sueños" loading="lazy">
-    </div>
+    </div>                                     
 </div>

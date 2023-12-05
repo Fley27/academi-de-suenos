@@ -24,7 +24,9 @@
         wp_enqueue_style('custom-success-style', get_stylesheet_directory_uri() . '/assets/css/success.css', array(), '1.0', 'all');
         wp_enqueue_style('custom-my-account-style', get_stylesheet_directory_uri() . '/assets/css/my-account.css', array(), '1.0', 'all');
         wp_enqueue_style('custom-coming-soon-style', get_stylesheet_directory_uri() . '/assets/css/coming-soon.css', array(), '1.0', 'all');        
-        wp_enqueue_style('custom-privacy-policy-style', get_stylesheet_directory_uri() . '/assets/css/privacy-policy.css', array(), '1.0', 'all');
+        wp_enqueue_style('custom-privacy-policy-style', get_stylesheet_directory_uri() . '/assets/css/privacy-policy.css', array(), '1.0', 'all'); 
+        wp_enqueue_style('custom-wavy-blob-style', get_stylesheet_directory_uri() . '/assets/css/wavy-blob.css', array(), '1.0', 'all'); 
+        wp_enqueue_style('custom-home-promo-style', get_stylesheet_directory_uri() . '/assets/css/home-promo.css', array(), '1.0', 'all');
     }   
 
     add_action('wp_enqueue_scripts', 'enqueue_custom_styles');   

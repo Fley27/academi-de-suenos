@@ -44,7 +44,5 @@
         get_template_part('includes/section', "secondary-menu");
     ?>
     <?php
-        get_template_part('includes/layouts/section', "home");
+        get_template_part('includes/layouts/section', "home-promotion");
     ?>
-
-if some students are unable to attend classes, they would still have the opportunity to watch the recorded video.          
