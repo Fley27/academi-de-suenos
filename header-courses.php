@@ -3,7 +3,7 @@
 <html class = "html" lang="en-us">
 
 <head>
-    <title>Colegio De Sueños</title>
+    <title>Colegio De Sueños | Courses</title>
     <!-- Meta -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -23,6 +23,9 @@
 </head>
 
 <body class = "main">
+    <?php
+        get_template_part('includes/section', 'top-header');
+    ?>
     <?php 
         get_template_part('includes/section', "primary-menu");
     ?>  

@@ -1,4 +1,9 @@
 <div class="home-promo-container">
+    <div class="home-promo-background-container">
+        <div class="home-promo-background">
+            <div class="wave"></div>
+        </div>
+    </div>
     <div class="home-promo-content">
         <div class="promo-content-item">
             <h2 class="promo-headline">
@@ -8,11 +13,11 @@
             <p class="promo-description">
                 Learn together, save together! Until Dec 31, buy one course, 
                 get the next at 50% off. Dive into knowledge and double the fun! 
-                🎁 #SpecialOffer 📚 #LearnTogether 🎅#MerryChristmas
+                #SpecialOffer 🎁  #LearnTogether📚 #MerryChristmas🎅
             </p>
             <div class="timer-countdown">
                 <div class="square-timer">
-                    <span>25</span>
+                    <span id = "days">25</span>
                     <br>
                     Days
                 </div> 
@@ -20,7 +25,7 @@
                     :
                 </div>
                 <div class="square-timer">
-                    <span>15</span>
+                    <span id = "hours">15</span>
                     <br>
                     Hours
                 </div> 
@@ -28,7 +33,7 @@
                     :
                 </div>
                 <div class="square-timer">
-                    <span>55</span>
+                    <span id = "minutes">55</span>
                     <br>
                     Minutes
                 </div> 
@@ -36,14 +41,14 @@
                     :
                 </div>
                 <div class="square-timer">
-                    <span>59</span>
+                    <span id = "seconds">59</span>
                     <br>
                     Seconds
                 </div>
             </div>
-            <div class="btn-claim-deal">
+            <a href = "/courses" class="btn-claim-deal">
                 Claim Deal Now!
-            </div>
+            </a>
         </div>
         <div class="promo-content-item">
             <div class="promo-img">
@@ -54,8 +59,5 @@
             </div>
         
         </div>
-    </div>
-    <div class="wave-container">
-        <div class="wave"></div>
     </div>
 </div>     

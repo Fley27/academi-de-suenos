@@ -27,6 +27,10 @@
         wp_enqueue_style('custom-privacy-policy-style', get_stylesheet_directory_uri() . '/assets/css/privacy-policy.css', array(), '1.0', 'all'); 
         wp_enqueue_style('custom-wavy-blob-style', get_stylesheet_directory_uri() . '/assets/css/wavy-blob.css', array(), '1.0', 'all'); 
         wp_enqueue_style('custom-home-promo-style', get_stylesheet_directory_uri() . '/assets/css/home-promo.css', array(), '1.0', 'all');
+        wp_enqueue_style('custom-top-banner-style', get_stylesheet_directory_uri() . '/assets/css/top-header-banner.css', array(), '1.0', 'all');
+		
+        wp_enqueue_style('custom-home-promo-style', get_stylesheet_directory_uri() . '/assets/css/home-promo.css', array(), '1.0', 'all');
+        wp_enqueue_style('custom-top-banner-style', get_stylesheet_directory_uri() . '/assets/css/top-header-banner.css', array(), '1.0', 'all');
     }   
 
     add_action('wp_enqueue_scripts', 'enqueue_custom_styles');   
@@ -46,6 +50,8 @@
         wp_enqueue_script( 'secondary-menu', get_template_directory_uri() . '/assets/js/secondary-menu.js', array());
         wp_enqueue_script( 'form', get_template_directory_uri() . '/assets/js/form.js', array());
         wp_enqueue_script( 'curriculum-table', get_template_directory_uri() . '/assets/js/curriculum-table.js', array());
+        wp_enqueue_script( 'countdown', get_template_directory_uri() . '/assets/js/countdown.js', array());
+        wp_enqueue_script( 'countdown', get_template_directory_uri() . '/assets/js/countdown.js', array());
     }
 
     add_action("wp_enqueue_scripts", "load_javascript");
